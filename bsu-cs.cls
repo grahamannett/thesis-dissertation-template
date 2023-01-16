@@ -1668,7 +1668,6 @@
 
 %% \finish adds the required extra blank page at the end
 \newcommand{\finish}{
-  \newpage
   \thispagestyle{empty}
   \mbox{}
 }
